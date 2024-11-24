@@ -60,9 +60,12 @@ pip install geopy scikit-learn pandas numpy matplotlib
 
 # **Troubleshooting**
 
-- Dependency Issues: Ensure all required modules are installed. Use pip freeze to confirm.
-- Permission Denied: Run the script with administrative privileges if required (sudo on Linux).
-- Unexpected Errors: Check the logs in the terminal or output file for details.
+| **Issue**              | **Cause**                     | **Solution**                             |
+|------------------------|-------------------------------|------------------------------------------|
+| Dependency not found   | Missing library               | Run `pip install -r requirements.txt`    |
+| Permission denied      | Lack of admin privileges      | Run the script with elevated permissions |
+| Geolocation errors     | Geopy cannot resolve IP       | Check your internet connection           |
+
 
 # **Future Improvements**
 
