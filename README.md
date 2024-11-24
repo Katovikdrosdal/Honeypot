@@ -11,7 +11,7 @@ A Python-based honeypot designed to emulate vulnerable services, log malicious a
 ---
 
 ## Quick Start
-
+```bash
 1. Clone the repository:
     git clone https://github.com/your-username/honeypot.git
 
@@ -23,7 +23,7 @@ A Python-based honeypot designed to emulate vulnerable services, log malicious a
 
 4. Run the honeypot:
     python honeypot.py
-
+```
 ## **Features**
 
 ### **Service Emulation**
