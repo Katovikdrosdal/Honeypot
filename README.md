@@ -13,7 +13,7 @@ A Python-based honeypot designed to emulate vulnerable services, log malicious a
 ## Quick Start
 ```bash
 1. Clone the repository:
-    git clone https://github.com/your-username/honeypot.git
+    git clone https://github.com/katovikdrosdal/honeypot.git
 
 2. Navigate to the directory
     cd honeypot
